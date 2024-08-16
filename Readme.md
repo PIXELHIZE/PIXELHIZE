@@ -9,6 +9,9 @@
 
 <div align="left">  
 
+<P>
+    You may actually have more skills than this because updating them is a hassle.
+</P>
 
 ## Tech Steck
 <div align=center>
@@ -27,8 +30,6 @@
 ## Studying
 <div align=center>
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/astro-20232a.svg?style=for-the-badge&logo=astro&logoColor=BC52EE" />
-    <img src="https://img.shields.io/badge/astro-20232a.svg?style=for-the-badge&logo=astro&logoColor=BC52EE" />
 </div>
 
 ## Tools
@@ -37,8 +38,6 @@
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
     <img src="https://img.shields.io/badge/intellijidea-20232a.svg?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF" />
-    <img src="https://img.shields.io/badge/astro-20232a.svg?style=for-the-badge&logo=astro&logoColor=BC52EE" />
-    <img src="https://img.shields.io/badge/astro-20232a.svg?style=for-the-badge&logo=astro&logoColor=BC52EE" />
 </div>
 
 </div>
