@@ -4,6 +4,47 @@
 
 # About Me
 
+<details>
+<summary>About Me</summary>
+
+<div align="left">  
+
+
+## Tech Steck
+<div align=center>
+    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
+    <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</div>
+
+## Framework
+<div align=center>
+    <img src="https://img.shields.io/badge/node.js-20232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+    <img src="https://img.shields.io/badge/express.js-FFFFFF.svg?style=for-the-badge&logo=express&logoColor=000000" />
+    <img src="https://img.shields.io/badge/astro-20232a.svg?style=for-the-badge&logo=astro&logoColor=BC52EE" />
+</div>
+
+## Studying
+<div align=center>
+    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/astro-20232a.svg?style=for-the-badge&logo=astro&logoColor=BC52EE" />
+    <img src="https://img.shields.io/badge/astro-20232a.svg?style=for-the-badge&logo=astro&logoColor=BC52EE" />
+</div>
+
+## Tools
+<div align=center>
+    <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
+    <img src="https://img.shields.io/badge/intellijidea-20232a.svg?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/astro-20232a.svg?style=for-the-badge&logo=astro&logoColor=BC52EE" />
+    <img src="https://img.shields.io/badge/astro-20232a.svg?style=for-the-badge&logo=astro&logoColor=BC52EE" />
+</div>
+
+</div>
+</div>
+</details>
+
 # My Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIXELHIZE&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" width=38% />
