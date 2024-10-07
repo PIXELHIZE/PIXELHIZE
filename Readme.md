@@ -30,6 +30,7 @@
 ## Studying
 <div align=center>
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
 </div>
 
 ## Tools
