@@ -13,6 +13,12 @@
     You may actually have more skills than this because updating them is a hassle.
 </P>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,cs,cpp,astro,aws,cloudflare&perline=5" />
+  </a>
+</p>
+
 ## Tech Steck
 <div align=center>
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
