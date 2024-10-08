@@ -43,7 +43,7 @@
 ## Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vsc,git,github" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,git,github" />
   </a>
 </p>
 
