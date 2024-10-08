@@ -13,12 +13,6 @@
     You may actually have more skills than this because updating them is a hassle.
 </P>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,electron,idea,kotlin,py,vercel,java,cs,cpp,astro,aws,cloudflare&perline=5" />
-  </a>
-</p>
-
 ## Tech Steck
 <p align="center">
   <a href="https://skillicons.dev">
