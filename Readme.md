@@ -47,6 +47,13 @@
   </a>
 </p>
 
+## distribution
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vercel,aws,cloudflare" />
+  </a>
+</p>
+
 </div>
 </div>
 </details>
