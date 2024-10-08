@@ -20,24 +20,25 @@
 </p>
 
 ## Tech Steck
-<div align=center>
-    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
-    <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,kotlin,py,java,cs" />
+  </a>
+</p>
 
 ## Framework
-<div align=center>
-    <img src="https://img.shields.io/badge/node.js-20232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
-    <img src="https://img.shields.io/badge/express.js-FFFFFF.svg?style=for-the-badge&logo=express&logoColor=000000" />
-    <img src="https://img.shields.io/badge/astro-20232a.svg?style=for-the-badge&logo=astro&logoColor=BC52EE" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=electron,astro,express,nodejs" />
+  </a>
+</p>
 
 ## Studying
-<div align=center>
-    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,react" />
+  </a>
+</p>
 
 ## Tools
 <div align=center>
