@@ -16,7 +16,7 @@
 ## Tech Steck
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,kotlin,py,java,cs" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,kotlin,py,java" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 ## Studying
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,react" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,react" />
   </a>
 </p>
 
