@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=400&color=F70076&center=true&width=435&lines=Hello!+there!;My+name+is;PIXELHIZE" alt="Typing SVG" /></a>
 
-# About Me
+# 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖
 
 <details>
 <summary>About Me</summary>
@@ -52,7 +52,7 @@
 </div>
 </details>
 
-# My Stats
+# 𝕄𝕪 𝕊𝕥𝕒𝕥𝕤
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-pixelhizes-projects.vercel.app/api/top-langs/?username=PIXELHIZE&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&icon_color=58A6FF&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" width=39.5% />
 </a>
