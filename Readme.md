@@ -62,3 +62,9 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=PIXELHIZE&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" width=94%/>
 </a>
+
+<p align="center">
+  <a href="https://count.getloli.com" target="_blank">
+    <img alt="Moe Counter!" src="https://count.getloli.com/@pixelhize.github?name=pixelhize.github&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+  </a>
+</p>
