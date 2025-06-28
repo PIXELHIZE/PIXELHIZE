@@ -3,7 +3,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=400&color=F70076&center=true&width=435&lines=Hello!+there!;My+name+is;PIXELHIZE" alt="Typing SVG" /></a>
 
 # 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖
+<div align=center>
+    
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X21H23AW)
+    
+</div>
+
 <details>
 <summary>About Me</summary>
 
